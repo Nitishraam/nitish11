@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.blue1{
+    width: 400px;
+    height: 80px;
+    background-color: lightskyblue;
+}
+.blue2{
+    width: 400px;
+    height: 80px;
+    background-color: lightskyblue;
+}
+.white{
+    width: 400px;
+    height: 80px;
+    background-color: white;
+}
+.logo{
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    top: 80px;
+    left: 150px;
+}
+.main{
+    width: 75%;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.name{
+    color: white;
+    position: relative;
+    left: 140px;
+    top: 10px;  
+}
