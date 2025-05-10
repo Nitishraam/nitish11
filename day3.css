@@ -47,6 +47,20 @@ body{
         line-height: 23px;
     }
 }
+@media(max-width:1440px){
+    .para1{
+        text-align: justify;
+        width: 97%;
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .para2{
+        text-align: justify;
+        width: 97%;
+        font-size: 20px;
+        line-height: 23px;
+    }
+}
 @media(max-width:1024px){
     .para1{
         text-align: justify;
